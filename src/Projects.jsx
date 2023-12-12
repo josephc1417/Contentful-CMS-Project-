@@ -7,4 +7,4 @@ const Projects = () => {
 }
 
 export default Projects
-testing
+testing <i class="fa fa-american-sign-language-interpreting" aria-hidden="true"></i>

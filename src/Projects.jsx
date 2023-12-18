@@ -1,4 +1,4 @@
-import FetchProjects from "./FetchProjects.jsx" /* src/FetchProjects.jsx */
+import "./FetchProject.jsx" /* src/FetchProjects.jsx */
 
 const Projects = () => {
   return (
@@ -7,4 +7,3 @@ const Projects = () => {
 }
 
 export default Projects
-testing <i class="fa fa-american-sign-language-interpreting" aria-hidden="true"></i>
